@@ -1,77 +1,74 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Kallol Chakrabarti — Helix Originator</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div class="container">
-    <header class="site-header">
-      <div class="title-block">
-        <h1>Kallol Chakrabarti</h1>
-        <p class="subtitle">Helix Originator — Research Innovator | DeSci Advocate | Author | Web App Developer</p>
-      </div>
-      <nav class="main-nav">
-        <a href="#about">About</a>
-        <a href="#research">Research</a>
-        <a href="#publications">Publications</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
-      </nav>
-    </header>
+/* Global Styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  line-height: 1.6;
+  background: #f9f9f9;
+  color: #222;
+}
 
-    <main>
-      <section id="about" class="card">
-        <h2>About</h2>
-        <p>Hi — I’m <strong>Kallol Chakrabarti</strong> (Helix Originator). I’m a research innovator and DeSci advocate focused on open science, civilizational studies, and practical policy engagement. Ranked in the top 10% of SSRN authors. Author of <em>Silent Wars (2025)</em>. Provisional patent filed (2024).</p>
-      </section>
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
 
-      <section id="research" class="card">
-        <h2>Research & Themes</h2>
-        <ul>
-          <li>Systematic Analysis of Misconceptions in Indian Constitutional, Dharmic, and Historical Narratives — ready reckoner and evidence framework</li>
-          <li>Bio-Integrated Smart Villages (BISV) — interdisciplinary preprint</li>
-          <li>Work on novelty scoring, DeSci policy proposals, and digital archives</li>
-        </ul>
-      </section>
+/* Container for sections */
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
 
-      <section id="publications" class="card">
-        <h2>Publications & Books</h2>
-        <p>Selected works and platforms:</p>
-        <ul>
-          <li><a href="https://www.amazon.com/dp/B0FBBJJC8D" target="_blank" rel="noopener">Silent Wars (2025) — Kindle</a></li>
-          <li><a href="https://zenodo.org/" target="_blank" rel="noopener">Zenodo</a> — publications & supporting files</li>
-          <li><a href="https://ssrn.com" target="_blank" rel="noopener">SSRN</a> — papers and downloads</li>
-          <li><a href="https://researchhub.com/post/4252/cultural-bias-in-plagiarism-detection-rethinking-authorship-in-the-digital-age" target="_blank" rel="noopener">ResearchHub article</a></li>
-        </ul>
-      </section>
+/* Header */
+header {
+  background: #003366;
+  color: #fff;
+  padding: 50px 0;
+  text-align: center;
+}
+header h1 {
+  margin: 0 0 10px 0;
+  font-size: 2.5em;
+}
+header .tagline {
+  font-size: 1.2em;
+  font-weight: 400;
+}
 
-      <section id="projects" class="card">
-        <h2>Projects & Services</h2>
-        <ul>
-          <li><a href="https://helixoriginator.github.io/ghostwriter-website/" target="_blank" rel="noopener">Ghostwriting & Publishing Services</a></li>
-          <li><a href="https://storied-alpaca-eeac69.netlify.app" target="_blank" rel="noopener">Positive Staircase Model (web app)</a></li>
-          <li>Open archive of research artifacts and proofs (repositories)</li>
-        </ul>
-      </section>
+/* Section Headings */
+h2 {
+  color: #003366;
+  border-bottom: 2px solid #0066cc;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+}
 
-      <section id="contact" class="card">
-        <h2>Contact & Quick Links</h2>
-        <ul class="links">
-          <li>Email: <a href="mailto:kallolchitralimagicpen@gmail.com">kallolchitralimagicpen@gmail.com</a></li>
-          <li>ORCID: <a href="https://orcid.org/0009-0007-4971-8936" target="_blank" rel="noopener">0009-0007-4971-8936</a></li>
-          <li>Twitter/X: <a href="https://x.com/HelixOriginatr2" target="_blank" rel="noopener">@HelixOriginatr2</a></li>
-          <li>Book: <a href="https://www.amazon.com/dp/B0FBBJJC8D" target="_blank" rel="noopener">Silent Wars</a></li>
-          <li>Website (example projects): <a href="https://kallolchakrabarti.carrd.co/" target="_blank" rel="noopener">Carrd profile</a></li>
-        </ul>
-      </section>
-    </main>
+/* Lists */
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
 
-    <footer class="site-footer">
-      <p>© 2025 Kallol Chakrabarti — Helix Originator</p>
-    </footer>
-  </div>
-</body>
-</html>
+/* Footer */
+footer {
+  text-align: center;
+  background: #003366;
+  color: #fff;
+  padding: 20px 0;
+  margin-top: 40px;
+  font-size: 0.9em;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  header h1 {
+    font-size: 2em;
+  }
+  header .tagline {
+    font-size: 1em;
+  }
+}
