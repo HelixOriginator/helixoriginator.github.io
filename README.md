@@ -6,10 +6,10 @@ This repo hosts my personal website: [https://helixoriginator.github.io](https:/
 ---
 
  About Me
-I’m **Kallol Chakrabarti** (Helix Originator) – Research Innovator, DeSci Advocate, Author, and Developer.  
-- Ranked in the Top 10% of over 2.3 million authors worldwide on SSRN.  
+I’m Kallol Chakrabarti (Helix Originator) – Research Innovator, DeSci Advocate, Author, and Developer.  
+- Ranked in the Top 7% of over 2.4 million authors worldwide on SSRN.  
 - Author of *Silent Wars (2025)* — available on Amazon Kindle.  
-- Creator of the **Helix Originator** framework and **YouTube University** concept.  
+- Creator of the Helix Originator framework and YouTube University concept.  
 - Filed a provisional patent (2024) advancing novel concepts eligible for PCT protection.  
 
 ---
