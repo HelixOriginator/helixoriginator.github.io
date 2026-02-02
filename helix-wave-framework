@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Helix Wave Framework | Kallol Chakrabarti</title>
+  <link rel="stylesheet" href="/style.css">  <!-- if you have style.css in root -->
+  <style>
+    body { background:#0b0b0b; color:white; font-family: Arial, sans-serif; line-height:1.6; padding:20px; max-width:900px; margin:0 auto; }
+    h1, h2 { color:#00ffd5; }
+    a { color:#00ffd5; }
+    ul { padding-left:20px; }
+  </style>
+</head>
+<body>
+
+<h1>Helix Wave Framework</h1>
+
+<p>The Helix Wave Framework is an original interdisciplinary model created by Kallol Chakrabarti (Helix Originator). It integrates Sanatan Dharma and Vedic principles with modern fields like ethical AI, governance innovation, quantum-informed policy, and decolonized knowledge systems.</p>
+
+<h2>Core Idea</h2>
+<p>The "helix" represents spiral, layered evolution of knowledge. The "wave" represents how ideas spread, resonate, and create impact over time. Together, it forms a structured, ethical, and evidence-based approach to innovation rooted in dharmic values.</p>
+
+<h2>Key Components</h2>
+<ul>
+  <li>Dharmic ethical foundation (Satya, Dharma, holistic view)</li>
+  <li>Evidence-based ready reckoners and myth-fact structures</li>
+  <li>Spiral-wave cycles for knowledge and policy creation</li>
+  <li>Decentralized, independent scholarship</li>
+  <li>Applications in AI ethics, Vedic policy, governance</li>
+</ul>
+
+<h2>Applications & Recognition</h2>
+<p>Used in frameworks like Dharma-Driven AI Ethics, Vedic Quantum Policy, and government-acknowledged innovations (ECI, Assam Govt). Documented in Zenodo, ORCID, and dashboard with high downloads.</p>
+
+<p><a href="https://helixoriginator.github.io/kallol-chakrabarti-world-record-research/">View full research dashboard →</a></p>
+
+<p><a href="/">← Back to Home</a></p>
+
+</body>
+</html>
